@@ -1,0 +1,29 @@
+
+.sendpress-signup-form{
+
+	}
+	.sendpress-signup-form fieldset{
+		margin-bottom:5px;
+	}
+	.sendpress-signup-form label{
+		/*width:100px;*/
+		display:block;
+		word-wrap: none;
+		padding:0 5px 0 0;
+	}
+	.sendpress-signup-form input{
+		max-width:80%;
+	}
+	.sendpress-signup-form .submit{
+		max-width:80%;
+	}
+
+	.sendpress-signup-form #error{
+		color:#8B0000;
+		margin:10px 0px;
+		
+	}
+	.sendpress-signup-form #thanks{
+		margin:10px 0px;
+		display:none;
+	}
